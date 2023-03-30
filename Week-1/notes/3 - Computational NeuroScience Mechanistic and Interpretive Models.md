@@ -11,6 +11,12 @@ then make a feed-forward connection convering inputs to a particular cell (V1).
 -- Controversial model (It does not talk other recurrence inputs, though those input contribute to V1 cell).
 -- Two kinds of inputs:- Feed-forward and recurrent networks.
 ```
+Question:
+This is an example of a "mechanistic" model.  By "mechanistic" we mean:
+Answer:
+The model describes how the neural system does what we have observed it to do.
+Mechanistic models are designed to show how a neural system goes about accomplishing a particular function.
+```
 ![](http://geekresearchlab.net/coursera/neuro/receptive-mech.jpg)
 <br>
 ```
